@@ -1,2 +1,2 @@
 # Cpp-programs
-This repository holds a few of many programs I've written for my programming classes over the past year. I tried to describe them as much as I could. 
+This repository holds a few of many programs I've written for my programming classes over the past year. As far as possible I've add some comments and descriptions to code. 
